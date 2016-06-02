@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dogList>
+    <dog>
+        <name>Xml</name>
+		<age>11</age>
+		<weight>11.23</weight>
+    </dog>
+    <dog>
+        <name>Doggy</name>
+		<age>6</age>
+		<weight>23.46</weight>
+    </dog>
+    <dog>
+        <name>Robin</name>
+		<age>2</age>
+		<weight>6.41</weight>
+    </dog>
+</dogList>

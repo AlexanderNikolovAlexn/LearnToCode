@@ -1,0 +1,18 @@
+{ dogs: [
+	{
+	"name" : "Dodgie",
+	"age" : 12,
+	"weight" : 4.4
+	},
+	{
+	"name" : "Kyrbi",
+	"age" : 9,
+	"weight" : 2.1
+	},
+	{
+	"name" : "Tayson",
+	"age" : 5,
+	"weight" : 8.7
+	}
+	]
+}
